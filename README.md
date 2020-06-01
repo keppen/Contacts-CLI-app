@@ -13,3 +13,5 @@ Eg. to update a last name of an entry following command can be used: 'contacts u
 Then the program will ask about details, what items name will be changed and the new name.
 
 Using --help option is recomended.
+
+Main.py contain funtions that operates CLI, functions.py comunicates with database and intef.py processes output of functions.py.
